@@ -21,11 +21,11 @@
 </p>
 
 <h2 align="center">My Interests</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=py,ts,js,postgres,aws,pytorch,angular,react,supabase,firebase,nodejs,html,css,scss" />
-  </a>
-</p>
+<p align="center">Cloud Development</p>
+<p align="center">Fullstack Development</p>
+<p align="center">Database Administration</p>
+<p align="center">Machine Learning</p>
+
 
 <h2 align="center">Currently (RE)Learning</h2>
 <p align="center">
