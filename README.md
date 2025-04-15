@@ -21,18 +21,10 @@
 </p>
 
 <h2 align="center">My Interests</h2>
-<p align="center">Cloud Development</p>
-<p align="center">Fullstack Development</p>
-<p align="center">Database Administration</p>
+<p align="center">Cloud Computing</p>
 <p align="center">Machine Learning</p>
+<p align="center">Cloud Architecture Design</p>
 
-
-<h2 align="center">Currently (RE)Learning</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=java,cpp,docker&perline=5" />
-  </a>
-</p>
 
 <h2 align="center">Let's Connect!</h2>
 <p align="center">
